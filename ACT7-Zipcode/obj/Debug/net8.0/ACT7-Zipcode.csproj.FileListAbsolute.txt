@@ -1,0 +1,15 @@
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\bin\Debug\net8.0\ACT7-Zipcode.exe
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\bin\Debug\net8.0\ACT7-Zipcode.deps.json
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\bin\Debug\net8.0\ACT7-Zipcode.runtimeconfig.json
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\bin\Debug\net8.0\ACT7-Zipcode.dll
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\bin\Debug\net8.0\ACT7-Zipcode.pdb
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ACT7-Zipcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ACT7-Zipcode.AssemblyInfoInputs.cache
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ACT7-Zipcode.AssemblyInfo.cs
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ACT7-Zipcode.csproj.CoreCompileInputs.cache
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ACT7-Zipcode.sourcelink.json
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ACT7-Zipcode.dll
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\refint\ACT7-Zipcode.dll
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ACT7-Zipcode.pdb
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ACT7-Zipcode.genruntimeconfig.cache
+C:\Users\Laurikiss\Downloads\review_one\ACT7-Zipcode\obj\Debug\net8.0\ref\ACT7-Zipcode.dll
