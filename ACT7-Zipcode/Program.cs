@@ -1,6 +1,6 @@
-﻿class Program
+public ﻿class Program
 {
-    static void Main()
+    public static void Main()
     {
         const string MENU = "1. Afegir Codi - Ciutat a la llista\n2. Mostrar la llista\n3. Sortir";
         int option;
