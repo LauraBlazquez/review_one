@@ -1,6 +1,6 @@
-﻿class Program
+public ﻿class Program
 {
-    static void Main()
+    public static void Main()
     {
         const int NUM_NOTES = 3, NOTA_TALL = 6;
         int nota1, nota2, nota3;
